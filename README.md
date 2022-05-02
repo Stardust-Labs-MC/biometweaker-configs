@@ -6,7 +6,7 @@ Many mods - like Alex's Mobs - require the Forge Biome Dictionary to work. Terra
 
 - Install [BiomeTweaker](https://www.curseforge.com/minecraft/mc-mods/biometweaker)
 - Run the game once in order ot generate the configs
-- Download the config files from this repository by clicking on the [Releases](github.com) button
+- Download the config files from this repository by clicking on the [Releases](https://github.com/Stardust-Labs-MC/alex-mobs-configs/releases/tag/Downloads) button
 - Paste those config files in the `config/biometweaker/scripts` folder
 - Restart your game
 
