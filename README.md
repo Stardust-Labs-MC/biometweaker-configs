@@ -10,4 +10,4 @@ Many mods - like Alex's Mobs - require the Forge Biome Dictionary to work. Terra
 - Paste those config files in the `config/biometweaker/scripts` folder
 - Restart your game
 
-Questions? Join the [Stardust Labs Discord Server](discord.gg/stardustlabs)!
+Questions? Join the [Stardust Labs Discord Server](https://discord.com/invite/stardustlabs)!
