@@ -2,6 +2,8 @@
 
 Many mods - like Alex's Mobs - require the Forge Biome Dictionary to work. Terralith, Incendium, and etc, being datapacks, cannot use the Forge biome dictionary by default. Therefore, one can use the [BiomeTweaker](https://www.curseforge.com/minecraft/mc-mods/biometweaker) mod and a few config files in order to allow better compatibility with things like Alex's Mobs.
 
+Clarification - this is not an official tool. This is made mostly by the community in our discord! The thought process was that if these tools help you, that's great. Otherwise, we cannot offer any support for them. Hope you find them helpful!
+
 ## Installation
 
 - Install [BiomeTweaker](https://www.curseforge.com/minecraft/mc-mods/biometweaker)
